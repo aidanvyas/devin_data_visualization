@@ -28,3 +28,7 @@ The initial attempt to visualize the data included a `plt.show()` command, which
 
 ## Conclusion
 The bar chart visualization was created and sent to the user for feedback. It effectively displays the safety record of each airline, allowing for easy comparison and analysis of the data across the two time periods.
+
+## Additional Notes
+- The visualization process highlighted the importance of selecting the right type of chart to convey the data story effectively.
+- Future enhancements could include interactive elements to the visualization for a more engaging user experience.
